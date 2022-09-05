@@ -1,4 +1,5 @@
 Online Bookstore implemented by javaSwing
+
 ---This Application was implemented using offline XAMPP database.
 
 • Using MySQL database management system, you can change the host, password, and uri from
