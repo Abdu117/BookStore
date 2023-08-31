@@ -1,4 +1,4 @@
-Online Bookstore implemented by javaSwing
+Bookstore application implemented by javaSwing
 
 ---This Application was implemented using offline XAMPP database.
 
